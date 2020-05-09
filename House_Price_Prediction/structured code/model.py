@@ -1,7 +1,11 @@
 # Import the modules
-# Data handle
+print("> Loading modules into kernel")
+# data handle
 import pandas as pd
 import numpy as np
-# Data visualization
-import matplotlib.pyplot as plt
-# Machine Learning
+# data visualization
+import matplotlib.pyplot as
+# machine learning
+# other libraries
+# final message
+print("> Modules loaded into kernel")

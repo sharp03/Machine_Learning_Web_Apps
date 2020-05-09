@@ -1,6 +1,7 @@
 class arguments():
     def __init__(self):
-        self.data_file = r"F:\Data Science Related\Machine_Learning_Web_Apps\House_Price_Prediction\data\kc_house_data.csv.xlsx"
+        # Data related
+        self.data_file = r"data\kc_house_data.csv"
         self.drop_col = ['']
         self.preview = True
         # Machine learning
